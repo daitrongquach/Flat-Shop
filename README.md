@@ -65,3 +65,9 @@ This project is built with the following add-on/plugins:
 
 4. Order function:</br>
 ![Order Function](./public/img/order-function.png "Order Function")
+
+5. Search function:</br>
+- Search products by keyword:</br>
+![Search Profucts By Keyword](./public/img/search-function-by-keyword.png "Search Profucts By Keyword")
+- Search products by price:</br>
+![Search Profucts By Price](./public/img/search-function-by-price.png "Search Profucts By Price")
