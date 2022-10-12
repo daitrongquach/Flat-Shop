@@ -15,6 +15,7 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#user-interface">User Function</a></li>
+        <li><a href="#admin-interface">Admin Function</a></li>
       </ul>
     </li>
     <li>
@@ -80,3 +81,6 @@ This project is built with the following add-on/plugins:
 
 7. News function:</br>
 ![News Function](./public/img/news-function.png "News Function")
+
+<!-- ADMIN FUNCTION -->
+### Admin function
