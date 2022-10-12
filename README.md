@@ -79,8 +79,27 @@ This project is built with the following add-on/plugins:
 7. Product category function:</br>
 ![Product Category Function](./public/img/product-category-function.png "Product Category Function")
 
-7. News function:</br>
+8. News function:</br>
 ![News Function](./public/img/news-function.png "News Function")
 
 <!-- ADMIN FUNCTION -->
 ### Admin function
+1. Add product function:
+2. Edit product function:
+3. Delete product function:
+4. Search product funcrion:
+5. Add product category function:
+6. Edit product category function:
+7. Delete product category function:
+8. Search product category function:
+9. Order list function:
+10. Product list function:
+11. Employee management function:
+12. News management function:
+13. Customer management function:
+14. Slide photo management function:
+15. reporting and statistical functions:
+16. monthly profit statistics function:
+17. quarterly profit statistics function:
+18. annual profit statistics function:
+19. total number of items sold:
