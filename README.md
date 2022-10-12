@@ -77,3 +77,6 @@ This project is built with the following add-on/plugins:
 
 7. Product category function:</br>
 ![Product Category Function](./public/img/product-category-function.png "Product Category Function")
+
+7. News function:</br>
+![News Function](./public/img/news-function.png "News Function")
