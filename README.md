@@ -71,3 +71,6 @@ This project is built with the following add-on/plugins:
 ![Search Profucts By Keyword](./public/img/search-function-by-keyword.png "Search Profucts By Keyword")
 - Search products by price:</br>
 ![Search Profucts By Price](./public/img/search-function-by-price.png "Search Profucts By Price")
+
+6. Product details function:</br>
+![Product Details Function](./public/img/product-details-function.png "Product Details Function")
