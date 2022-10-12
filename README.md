@@ -1,6 +1,6 @@
 <!-- PROJECT NAME -->
 <div align="center">
-  <h1 align="center">Flat Shop</h1>
+  <h1 align="center">FlatShop</h1>
   <p align="center">
     E-commerce website that specializes in selling furniture.
   </p>
