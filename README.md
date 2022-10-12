@@ -14,8 +14,8 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#user-interface">User Function</a></li>
-        <li><a href="#admin-interface">Admin Function</a></li>
+        <li><a href="#user-function">User Function</a></li>
+        <li><a href="#admin-function">Admin Function</a></li>
       </ul>
     </li>
     <li>
