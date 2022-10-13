@@ -138,3 +138,14 @@ This project is built with the following add-on/plugins:
 
 - Total number of items sold:
 ![Total Number Of Items Sold](./public/img/total-number-of-items-sold.png "Total Number Of Items Sold")
+
+<!-- PREREQUISITES -->
+### Prerequisites
+The project is based on ![Xampp](https://img.shields.io/badge/xampp-%23FB7A24.svg?&style=flat&logo=xampp&logoColor=white).
+
+<!-- INSTALLATION -->
+### Installation
+1. Clone the repo:
+```
+git clone https://github.com/daitrongquach/Flat-Shop.git
+```
