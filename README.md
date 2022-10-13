@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![Product Screenshot](./public/img/product-screenshot.png "Product Screenshot")
-This is an e-commerce website specializing in furniture trading services.
+This is an e-commerce website specializing in furniture selling services.
 
 <!-- BUILT WITH -->
 ### Built with
@@ -67,11 +67,11 @@ This project is built with the following add-on/plugins:
 4. Order function:</br>
 ![Order Function](./public/img/order-function.png "Order Function")
 
-5. Search function:</br>
+5. Product search function:</br>
 - Search products by keyword:</br>
-![Search Profucts By Keyword](./public/img/search-function-by-keyword.png "Search Profucts By Keyword")
+![Search Profucts By Keyword](./public/img/search-products-by-keyword.png "Search Profucts By Keyword")
 - Search products by price:</br>
-![Search Profucts By Price](./public/img/search-function-by-price.png "Search Profucts By Price")
+![Search Profucts By Price](./public/img/search-products-by-price.png "Search Profucts By Price")
 
 6. Product details function:</br>
 ![Product Details Function](./public/img/product-details-function.png "Product Details Function")
@@ -84,22 +84,57 @@ This project is built with the following add-on/plugins:
 
 <!-- ADMIN FUNCTION -->
 ### Admin function
+![Admin Page](./public/img/admin-page.png "Admin Page")
+
 1. Add product function:
-2. Edit product function:
-3. Delete product function:
-4. Search product funcrion:
-5. Add product category function:
-6. Edit product category function:
-7. Delete product category function:
-8. Search product category function:
-9. Order list function:
-10. Product list function:
-11. Employee management function:
-12. News management function:
-13. Customer management function:
-14. Slide photo management function:
-15. reporting and statistical functions:
-16. monthly profit statistics function:
-17. quarterly profit statistics function:
-18. annual profit statistics function:
-19. total number of items sold:
+![Add Product Function](./public/img/add-product-function.png "Add Product Function")
+
+2. Edit/Delete product function:
+![Edit/Delete Product Function](./public/img/edit-delete-product-function.png "Edit/Delete Product Function")
+
+3. Search product funcrion:
+![Search Product Function](./public/img/search-product-function.png "Search Product Function")
+
+4. Add product category function:
+![Add Product Category Function](./public/img/add-product-categpry-function.png "Add Product Category Function")
+
+5. Edit/Delete product category function:
+![Edit/Delete Product Category Function](./public/img/edit-delete-product-categpry-function.png "Edit/Delete Product Category Function")
+
+6. Search product category function:
+![Search Product Category Function](./public/img/search-product-categpry-function.png "Search Product Category Function")
+
+7. Order list function:
+![Order List Function](./public/img/order-list-function.png "Order List Function")
+
+8. Product list function:
+![Product List Function](./public/img/product-list-function.png "Product List Function")
+
+9. Employee management function:
+![Employee Management Function](./public/img/employee-management-function.png "Employee Management Function")
+
+10. News management function:
+![News Management Function](./public/img/news-management-function.png "News Management Function")
+
+11. Customer management function:
+![Customer Management Function](./public/img/customer-management-function.png "Customer Management Function")
+
+
+12. Slide photo management function:
+![Slide Photo Management Function](./public/img/slide-photo-management-function.png "Slide Photo Management Function")
+
+13. Reports and statistics functions:</br>
+- Goods quantity:
+![Goods Quantity](./public/img/reports-and-statistics-function.png "Goods Quantity")
+
+- Monthly profit statistics function:
+![Monthly Profit Statistics Function](./public/img/monthly-profit-statistics-function.png "Monthly Profit Statistics Function")
+
+- Quarterly profit statistics function:
+![Quarterly Profit Statistics Function](./public/img/quarterly-profit-statistics-function.png "Quarterly Profit Statistics Function")
+
+- Annual profit statistics function:
+![Annual Profit Statistics Function](./public/img/annual-profit-statistics-function.png "Annual Profit Statistics Function")
+
+- Total number of items sold:
+![Total Number Of Items Sold](./public/img/total-number-of-items-sold.png "Total Number Of Items Sold")
