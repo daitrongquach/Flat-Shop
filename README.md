@@ -96,7 +96,7 @@ This project is built with the following add-on/plugins:
 ![Search Product Function](./public/img/search-product-function.png "Search Product Function")
 
 4. Add product category function:
-![Add Product Category Function](./public/img/add-product-categpry-function.png "Add Product Category Function")
+![Add Product Category Function](./public/img/add-product-category-function.png "Add Product Category Function")
 
 5. Edit/Delete product category function:
 ![Edit/Delete Product Category Function](./public/img/edit-delete-product-categpry-function.png "Edit/Delete Product Category Function")
