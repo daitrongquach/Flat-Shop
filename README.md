@@ -125,7 +125,7 @@ This project is built with the following add-on/plugins:
 
 13. Reports and statistics functions:</br>
 - Goods quantity:
-![Goods Quantity](./public/img/reports-and-statistics-function.png "Goods Quantity")
+![Goods Quantity](./public/img/goods-quantity.png "Goods Quantity")
 
 - Monthly profit statistics function:
 ![Monthly Profit Statistics Function](./public/img/monthly-profit-statistics-function.png "Monthly Profit Statistics Function")
